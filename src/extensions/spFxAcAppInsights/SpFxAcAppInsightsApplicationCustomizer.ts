@@ -25,6 +25,9 @@ export default class SpFxAcAppInsightsApplicationCustomizer
 
   @override
   public onInit(): Promise<void> {
+
+
+
     Log.info(LOG_SOURCE, `Initialized ${strings.Title}`);
 
     let message: string = this.properties.testMessage;
