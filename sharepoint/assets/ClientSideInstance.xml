@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="SpFxAcAppInsights"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="90f80e9b-3e4f-412d-adfa-cf5f5ecaba7b"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
